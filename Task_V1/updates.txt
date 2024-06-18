@@ -1,0 +1,8 @@
+V1 for EpisodicTEP
+
+copied from binding 0503
+
+- 2 blocks of 48 trials
+- A break after the first block, dismissed by the experimenter
+- Sends pulses with markers 100 and 101 (enable,disable)
+- IntBreak is just a short squrae before trial begins 
